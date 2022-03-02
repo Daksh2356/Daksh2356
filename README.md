@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate X 
 - 📫 How to reach me : 
 Mail:dakshmakhija@gmail.com
+Linkedln: https://www.linkedin.com/in/daksh-makhija-7abb2a205/
 Insta: https://www.instagram.com/daksh_makhija_/
 Tring-Tring: 9810358770
 
