@@ -6,8 +6,6 @@
 Mail:dakshmakhija@gmail.com
 Linkedln: https://www.linkedin.com/in/daksh-makhija-7abb2a205/
 Insta: https://www.instagram.com/daksh_makhija_/
-Tring-Tring: 9810358770
-
 
 <!---
 Daksh2356/Daksh2356 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
