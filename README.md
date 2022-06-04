@@ -1,6 +1,6 @@
 👋 Hello everyone !!!
 
-I am Daksh Makhija, a front end web developer , an app developer, a programmer and an aspiring web developer.
+I am Daksh Makhija, a front end web developer , an app developer, a programmer and an aspiring full stack web developer.
 
 - 👀 I’m intersted to know more about tech developments in the modern world and your need-to-be attributes for a developer.
 - 
