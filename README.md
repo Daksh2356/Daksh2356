@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **a flutter project , ClassApp.**
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript**
+- 🌱 I’m currently learning **HTML, CSS and JavaScript.**
 
-- 🤝 I’m looking for help with **open source projects and contributions**
+- 🤝 I’m looking for help with **open source projects and contributions.**
 
-- 💬 Ask me about **C++, Java and Flutter**
+- 💬 Ask me about **C++, Java and Flutter.**
 
 - 📫 How to reach me **dakshmakhija@gmail.com**
 
