@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)"><img src="https://github-profile-trophy.vercel.app/?username=daksh2356" alt="daksh2356" /></a> </p>
 
-- 🔭 I’m currently working on **a flutter project , ClassApp.**
+- 🔭 I’m currently working on **a web development project , Task Management App.**
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript.**
+- 🌱 I’m currently learning **NodeJS and Express.**
 
 - 🤝 I’m looking for help with **open source projects and contributions.**
 
