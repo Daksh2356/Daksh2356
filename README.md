@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daksh2356&label=Profile%20views&color=0e75b6&style=flat" alt="daksh2356" /> </p>
 
-<p align="left"> <a href="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)"><img src="https://github-profile-trophy.vercel.app/?username=daksh2356" alt="daksh2356" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daksh2356" alt="daksh2356" /></a> </p>
 
 - 🔭 I’m currently working on **a web development project , Task Management App.**
 
