@@ -22,7 +22,7 @@ Skills: Software, Front-End Web and Flutter Development
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=daksh2356&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=daksh2356)  
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=daksh2356)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=daksh2356)  
 
