@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Daksh Makhija
 Frontend Developer 💻 App Developer 📲
 ![Frontend Developer 💻 App Developer 📲](https://raw.githubusercontent.com/Daksh2356/Daksh2356/main/git%20readme.gif)
+[![An image of @daksh2356's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/daksh2356)](https://holopin.io/@daksh2356)
 Skills: Software, Front-End Web and Flutter Development
 
 - 🔭 I’m currently working on **a full stack web development project , Zomato Clone**. 
