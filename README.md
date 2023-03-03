@@ -4,7 +4,7 @@ Frontend Developer 💻 App Developer 📲
 [![An image of @daksh2356's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/daksh2356)](https://holopin.io/@daksh2356)
 Skills: Software, Front-End Web and Flutter Development
 
-- 🔭 I’m currently working on **a full stack web development project , Zomato Clone**. 
+- 🔭 I’m currently working on **an app development project, ClassApp which is developed using flutter framework**. 
 - 🌱 I’m currently learning **React and Node** and working on my **JavaScript skills**. 
 - 🤔 I’m looking for help with **open source projects and contributions**. 
 - 💬 Ask me about  **C++, Java and Flutter**. 
