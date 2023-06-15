@@ -27,4 +27,4 @@ Skills: Software, Front-End Web and Flutter Development
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=daksh2356)  
 
-![Profile views](https://gpvc.arturio.dev/daksh2356)  
+![Profile views](https://komarev.com/ghpvc/?username=Daksh2356)
