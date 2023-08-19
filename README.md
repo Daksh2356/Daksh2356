@@ -1,10 +1,12 @@
 ### Hi there 👋, I'm Daksh Makhija
-Frontend Developer 💻 App Developer 📲
+Full Stack Web Developer 💻 App Developer 📲
 ![Frontend Developer 💻 App Developer 📲](https://raw.githubusercontent.com/Daksh2356/Daksh2356/main/git%20readme.gif)
 [![An image of @daksh2356's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/daksh2356)](https://holopin.io/@daksh2356)
-Skills: Software, Front-End Web and Flutter Development
+Skills: <br/>
+Tech Stack : HTML, CSS, Javascript, Reactjs, Nodejs, Express, Mongodb, AWS and Flutter <br/>
+Programming Languages: C/C++ and Java <br/>
 
-- 🔭 I’m currently working on **an app development project, ClassApp** which is developed using **flutter framework**. 
+- 🔭 I’m currently looking for adding some features on **an app development project, ClassApp** which is developed using **flutter framework**. 
 - 🌱 I’m currently improving my ***backend*** skills and leveling up ***JavaScript*** skills as well.
 - 🤔 I’m looking to work in **open source projects and contributions**. 
 - 💬 Ask me about  **C++, Java and Flutter**. 
@@ -17,7 +19,7 @@ Skills: Software, Front-End Web and Flutter Development
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=daksh2356)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=daksh2356)](https://github.com/ryo-ma/github-profile-trophy)            
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daksh2356)](https://github.com/anuraghazra/github-readme-stats)
 
