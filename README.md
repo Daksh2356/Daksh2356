@@ -9,7 +9,7 @@ Programming Languages: C/C++ and Java <br/>
 - 🔭 I’m currently looking for adding some features on **an app development project, ClassApp** which is developed using **flutter framework**. 
 - 🌱 I’m currently improving my ***backend*** skills and leveling up ***JavaScript*** skills as well.
 - 🤔 I’m looking to work in **open source projects and contributions**. 
-- 💬 Ask me about  **C++, Java and Flutter**. 
+- 💬 Ask me about  **C++, Java, JavaScript and Flutter**. 
 - 📫 How to reach me: **dakshmakhija@gmail.com**. 
 - 😄 Pronouns: **He/Him** 
 - ⚡ Fun fact: ***I work better when high !!*** 
