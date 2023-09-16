@@ -1,15 +1,16 @@
-### Hi there 👋, I'm Daksh Makhija
-Full Stack Web Developer 💻 Flutter Developer 📲
+### Hi there 👋, I'm Daksh Makhija 
+Full Stack Developer 💻 Flutter Developer 📲
+
 ![Frontend Developer 💻 App Developer 📲](https://raw.githubusercontent.com/Daksh2356/Daksh2356/main/git%20readme.gif)
 [![An image of @daksh2356's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/daksh2356)](https://holopin.io/@daksh2356)
 Skills: <br/>
 Tech Stack : HTML, CSS, Javascript, Reactjs, Nodejs, Express, Mongodb, AWS and Flutter <br/>
-Programming Languages: C/C++ and Java <br/>
+Programming Languages: C, C++ and Java <br/>
 
-- 🔭 I’m currently looking for adding some features on **an app development project, ClassApp** which is developed using **flutter framework**. 
+- 🔭 I’m currently looking for adding more features on my **an app development project, ClassApp** which is a **flutter application**. 
 - 🌱 I’m currently improving my ***backend*** skills and leveling up ***JavaScript*** skills as well.
 - 🤔 I’m looking to work in **open source projects and contributions**. 
-- 💬 Ask me about  **C++, Java and Flutter**. 
+- 💬 Ask me about  **C++, Reactjs and Flutter**. 
 - 📫 How to reach me: **dakshmakhija@gmail.com**. 
 - 😄 Pronouns: **He/Him** 
 - ⚡ Fun fact: ***I work better when high !!*** 
