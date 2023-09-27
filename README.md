@@ -20,14 +20,14 @@ Programming Languages: C, C++ and Java <br/>
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=daksh2356)](https://github.com/ryo-ma/github-profile-trophy)            
+[![trophy](https://github-profile-trophy.vercel.app/?username=daksh2356)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daksh2356&show_icons=true&locale=en&layout=compact" alt="daksh2356" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daksh2356)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daksh2356&bg_color=211a30&color=d1d0d7&line=ffffff&point=75aedc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daksh2356&bg_color=211a30&color=d1d0d7&line=ffffff&point=75aedc&area=true&hide_border=true)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=daksh2356)  
+![GitHub Streak](https://streak-stats.demolab.com?user=daksh2356&border_radius=5&card_width=500)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Daksh2356)
