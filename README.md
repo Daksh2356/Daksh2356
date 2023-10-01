@@ -24,6 +24,8 @@ Programming Languages: C, C++ and Java <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daksh2356)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daksh2356" alt="daksh2356" /></a> </p>
+
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daksh2356&bg_color=211a30&color=d1d0d7&line=ffffff&point=75aedc&area=true&hide_border=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daksh2356&" alt="daksh2356" /></p>
