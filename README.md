@@ -13,7 +13,7 @@ Programming Languages: C, C++ and Java <br/>
 - 💬 Ask me about  **C++, Reactjs and Flutter**. 
 - 📫 How to reach me: **dakshmakhija@gmail.com**. 
 - 😄 Pronouns: **He/Him** 
-- ⚡ Fun fact: ***I work better when high !!*** 
+- ⚡ Fun fact: ***I work better when I'm high !!*** 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/daksh2356)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/daksh-makhija-7abb2a205/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/DakshMakhija_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/Daksh2356)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://daksh2356.github.io/Portfolio-site/)  
