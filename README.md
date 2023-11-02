@@ -28,6 +28,6 @@ Programming Languages: C, C++ and Java <br/>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daksh2356&bg_color=211a30&color=d1d0d7&line=ffffff&point=75aedc&area=true&hide_border=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daksh2356&" alt="daksh2356" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Daksh2356)](https://git.io/streak-stats)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Daksh2356)
