@@ -4,7 +4,7 @@ Full Stack Developer 💻 Flutter Developer 📲
 ![Frontend Developer 💻 App Developer 📲](https://raw.githubusercontent.com/Daksh2356/Daksh2356/main/git%20readme.gif)
 [![An image of @daksh2356's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/daksh2356)](https://holopin.io/@daksh2356)
 Skills: <br/>
-Tech Stack :  HTML, CSS, Reactjs, Nodejs, Expressjs, MongoDB, AWS, and Flutter <br/>
+Tech Stack :  HTML, CSS, Reactjs, Nodejs, Expressjs, JDBC, Maven, MongoDB, AWS, and Flutter <br/>
 Programming Languages: C/C++, Java and Javascript <br/>
 
 - 🌱 I’m currently improving my ***backend*** skills and leveling up ***JavaScript*** skills as well.
