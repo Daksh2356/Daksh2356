@@ -6,6 +6,7 @@ Full Stack Developer 💻 Flutter Developer 📲
 Skills: <br/>
 Tech Stack :  HTML, CSS, Reactjs, Nodejs, Expressjs, JDBC, Servlet, Maven, MongoDB, AWS, and Flutter <br/>
 Programming Languages: C/C++, Java and Javascript <br/>
+Currently working with : C#, AngularJS and .NET framework! 🏢
 
 - 🌱 I’m currently improving my ***backend*** skills and leveling up ***JavaScript*** skills as well.
 - 🤔 I’m looking to work in **open source projects and contributions**. 
@@ -27,6 +28,6 @@ Programming Languages: C/C++, Java and Javascript <br/>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daksh2356&bg_color=211a30&color=d1d0d7&line=ffffff&point=75aedc&area=true&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Daksh2356)](https://git.io/streak-stats)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Daksh2356)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Daksh2356)
