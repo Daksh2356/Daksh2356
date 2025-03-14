@@ -11,7 +11,9 @@ Currently working with : C#, AngularJS and .NET framework! 🏢
 - 🌱 I’m currently improving my ***backend*** skills and leveling up ***JavaScript*** skills as well.
 - 🤔 I’m looking to work in **open source projects and contributions**. 
 - 💬 Ask me about  **C++, Java, Reactjs and Flutter**. 
-- 📫 How to reach me: **dakshmakhija@gmail.com**. 
+- 📫 How to reach me:
+**https://www.linkedin.com/in/dakshmakhija** <br/>
+**dakshmakhija@gmail.com**
 - 😄 Pronouns: **He/Him** 
 - ⚡ Fun fact: ***I work better when I'm high !!*** 
 
