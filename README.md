@@ -8,7 +8,7 @@ Tech Stack :  HTML, CSS, Reactjs, Nodejs, Expressjs, JDBC, Servlet, Maven, Mongo
 Programming Languages: C/C++, Java and Javascript <br/>
 Currently working with : C#, AngularJS and .NET framework! 🏢
 
-- 🌱 I’m currently improving my ***backend*** skills and leveling up ***JavaScript*** skills as well.
+- 🌱 I’m currently learning ***Angular***, working on my **backend** and **JavaScript** scripts as well.
 - 🤔 I’m looking to work in **open source projects and contributions**. 
 - 💬 Ask me about  **C++, Java, React, Node, AWS and Flutter**. 
 - 😄 Pronouns: **He/Him** 
