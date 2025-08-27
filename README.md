@@ -22,11 +22,11 @@ Currently working with : C#, AngularJS and .NET framework! 🏢
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daksh2356&show_icons=true&locale=en&layout=compact" alt="daksh2356" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daksh2356)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=daksh2356)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daksh2356" alt="daksh2356" /></a> </p>
+[![trophy](https://github-trophies.vercel.app/?username=daksh2356&theme=onedark)](https://github.com/lucthienphong1120/github-trophies)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daksh2356&bg_color=211a30&color=d1d0d7&line=ffffff&point=75aedc&area=true&hide_border=true)
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daksh2356&bg_color=211a30&color=d1d0d7&line=ffffff&point=75aedc&area=true&hide_border=true)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Daksh2356)
 
