@@ -24,7 +24,7 @@ Currently working with : C#, AngularJS and .NET framework! 🏢
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=daksh2356)
 
-[![trophy](https://github-trophies.vercel.app/?username=daksh2356&theme=onedark)](https://github.com/lucthienphong1120/github-trophies)
+[![trophy](https://github-trophies.vercel.app/?username=daksh2356&theme=oldie)](https://github.com/lucthienphong1120/github-trophies)
 
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daksh2356&bg_color=211a30&color=d1d0d7&line=ffffff&point=75aedc&area=true&hide_border=true)
 
