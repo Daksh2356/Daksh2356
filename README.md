@@ -13,7 +13,7 @@ Currently working with : C#, AngularJS and .NET framework! 🏢
 - 💬 Ask me about  **C++, Java, React, Node, AWS and Flutter**. 
 - 😄 Pronouns: **He/Him** 
 - ⚡ Fun fact: ***I work better when I'm high !!*** 
-- 📫 How to reach me:
+- 📫 How to reach me 👇🏻
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/daksh2356)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/daksh-makhija-7abb2a205/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/DakshMakhija_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/Daksh2356)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://daksh2356.github.io/Portfolio-site/)  
 
