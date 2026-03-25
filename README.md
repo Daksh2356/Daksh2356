@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Daksh MakhiAja 
+### Hi there 👋, I'm Daksh Makhija 
 Aspiring Software Engineer 💣 Full Stack Developer 🌐 React Developer 💻 Flutter Developer 📲
 
 ![Frontend Developer 💻 App Developer 📲](https://raw.githubusercontent.com/Daksh2356/Daksh2356/main/git%20readme.gif)
