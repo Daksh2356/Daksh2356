@@ -6,7 +6,7 @@ Aspiring Software Engineer 💣 Full Stack Developer 🌐 React Developer 💻 F
 Skills: <br/>
 Tech Stack :  HTML, CSS, Reactjs, Nodejs, Expressjs, JDBC, Servlet, Maven, MongoDB, AWS and Flutter, Cloudflare <br/>
 Programming Languages: C/C++, Java and Javascript <br/>
-Currently working with : C#, AngularJS and .NET framework! 🏢
+Currently working with : C#, AngularJS, SSMS and .NET framework! 🏢
 
 - 🌱 I’m currently learning ***Angular***, working on my **backend** and **JavaScript** scripts as well.
 - Working with AI tools
