@@ -9,8 +9,8 @@ Programming Languages: C/C++, Java and Javascript <br/>
 Currently working with : C#, AngularJS, SSMS and .NET framework! 🏢
 
 - 🌱 I’m currently learning ***Angular***, working on my **backend** and **JavaScript** scripts as well.
-- Working with AI tools
--  Curiously working on to develop a Product mindset and AI methodologies 🌟
+- Working with Claude and Gemini 👨‍💻
+- Curiously working on a Product mindset 🌟
 - 🤔 I’m looking to work in **open source projects and contributions**.
 - 💬 Ask me about  **C++, Java, React, Node, AWS and Flutter**. 
 - 😄 Pronouns: **He/Him** 
