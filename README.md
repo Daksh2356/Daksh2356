@@ -4,7 +4,7 @@ Aspiring Software Development Engineer 💣 Full Stack Developer 🌐 React Deve
 ![Frontend Developer 💻 App Developer 📲](https://raw.githubusercontent.com/Daksh2356/Daksh2356/main/git%20readme.gif)
 [![An image of @daksh2356's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/daksh2356)](https://holopin.io/@daksh2356)
 Skills: <br/>
-Tech Stack :  HTML, CSS, Reactjs, Nodejs, Expressjs, JDBC, Servlet, Maven, MongoDB, AWS and Flutter <br/>
+Tech Stack : HTML, CSS, Reactjs, Nodejs, Expressjs, JDBC, Servlet, Maven, MongoDB, AWS and Flutter <br/>
 Programming Languages: C/C++, Java and Javascript <br/>
 Currently working with : C#, AngularJS, SSMS and .NET framework! 🏢
 
@@ -14,7 +14,7 @@ Currently working with : C#, AngularJS, SSMS and .NET framework! 🏢
 - 🤔 I’m looking to work in **open source projects around AI**.
 - 💬 Ask me about  **C++, Java, React, Node, AWS, Flutter, and anything that comes in your mind!**. 
 - 😄 Pronouns: **He/Him** 
-- ⚡ Fun fact: ***I work better when I'm high !!*** 
+- ⚡ Fun fact: ***I work better when I'm high!!*** 
 - 📫 How to reach me 👇🏻
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/daksh2356)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/daksh-makhija-7abb2a205/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/DakshMakhija_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/Daksh2356)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://daksh-makhija-portfolio.netlify.app/)  
